@@ -1,3 +1,9 @@
 body {
     margin: 0;
+    background-color:lavender
+    
+}
+
+h1:hover {
+    font-size: 500px;
 }
